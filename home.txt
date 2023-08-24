@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+hello all ajhsdbfdosajckvkjmn hello
+=======
 hello all ajhsdbfdosajckvkjmn added
+>>>>>>> 5ccf690 (added newchange)
 =======
 
 >>>>>>> e2e9c26 (update new text)
