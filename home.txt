@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-hello all ajhsdbfdosajckvkjmn hsjaakldjcnkz,xncm
+hello all ajhsdbfdosajckvkjmn 
 =======
 
 >>>>>>> e2e9c26 (update new text)
